@@ -5,7 +5,7 @@
   "wallet": "GSJXaL4PmxHmja6go5aLLAfjEK4HZNeF2tx9GQMPMm82",
   "trade_mode": "live",
   "last_action": "\ud83d\udca4 No trades executed this cycle",
-  "last_scan": "2026-08-15T11:12:13.219525+00:00",
+  "last_scan": "2026-08-15T11:14:48.933412+00:00",
   "portfolio": [
     {
       "id": 16,
@@ -339,5 +339,5 @@
       "created_at": "2026-08-15 08:16:17"
     }
   ],
-  "snapshot_updated": "2026-08-15 11:12 UTC"
+  "snapshot_updated": "2026-08-15 11:15 UTC"
 }
